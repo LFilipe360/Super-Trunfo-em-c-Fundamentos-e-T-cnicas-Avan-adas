@@ -27,10 +27,10 @@ int main(){
     scanf("%c", &estado);
     //printf("Estado: %c\n", estado);
     printf("Digite o Estado da carta 2:");
-    scanf(" %c", &estado2);//!!!!!!!!!!!!!!!!sumiu
+    scanf(" %c", &estado2);
 
     printf("Digite o Código da carta 1:");
-    scanf("%s", &codigoCarta);//!!!!!!!!!!!!!!sumiu
+    scanf("%s", &codigoCarta);
     printf("Digite o Código da carta 2:");
     scanf("%s", codigoCarta2);
 
@@ -67,7 +67,6 @@ int main(){
     scanf("%d", &NdePontosTuri);
     printf("Digite o Número de Pontos Turísticos da carta 2:");
     scanf("%d", &NdePontosTuri2);
-//ate aqui mec
 
     printf("Carta 1:\n");
     printf("Estado: %c\n", estado);
@@ -90,7 +89,6 @@ int main(){
     printf("PIB: %f\n", pib2);
     printf("Número de Pontos Turísticos: %d\n", NdePontosTuri2);
 
-//DADOS sumindo
 
     return 0;
 
