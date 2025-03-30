@@ -27,10 +27,10 @@ int main(){
     scanf("%c", &estado);
     //printf("Estado: %c\n", estado);
     printf("Digite o Estado da carta 2:");
-    scanf(" %c", &estado2);//!!!!!!!!!!!!!!!!sumiu
+    scanf(" %c", &estado2);
 
     printf("Digite o Código da carta 1:");
-    scanf("%s", &codigoCarta);//!!!!!!!!!!!!!!sumiu
+    scanf("%s", &codigoCarta);
     printf("Digite o Código da carta 2:");
     scanf("%s", codigoCarta2);
 
